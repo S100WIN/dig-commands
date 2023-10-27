@@ -1,0 +1,4 @@
+http://www.kayhankayihan.com/dns-transferiaxfr-kullanarak-dns-bilgilerine-erismek/
+https://docstore.mik.ua/orelly/networking_2ndEd/dns/ch12_09.htm
+https://security.stackexchange.com/questions/69290/how-to-test-for-zone-transfer
+https://digi.ninja/projects/zonetransferme.php
